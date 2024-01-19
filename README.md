@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kalash1620
-- 👀 I’m interested in coding and web development
-- 🌱 I’m currently learning coding and DSA
+- 👀 I’m interested in java development and web development
+- 🌱 I’m currently learning coding and DSA with java.
 - 💞️ I’m looking to make peers and enjoy learning dsa and coding
 - 📫 you can mail me at guptakalash83@gmail.com
 - or
