@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Kalash1620
-- 👀 I’m interested in java development and web development
-- 🌱 I’m currently learning coding and DSA with java.
-- 💞️ I’m looking forward to make peers and enjoy learning dsa and coding
+- 👀 I’m building my career as Data Analyst.
+- 🌱 I’m currently working on Python.
+- 💞️ I’m looking forward to make peers and enjoy learning dsa and coding.
 - 📫 you can mail me at guptakalash83@gmail.com
-- or
-- on linkedin www.linkedin.com/in/kalash-gupta-a4a451227
+- on linkedin www.linkedin.com/in/kalash-gupta1620
 
 
 
